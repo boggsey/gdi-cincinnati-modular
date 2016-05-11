@@ -8,6 +8,7 @@ This curriculum module is incomplete and has not been reviewed. It was last upda
 * CSS
 
 ## Related modules
+* Box Sizing
 * Border Box
 * Flex box
 * Grids
